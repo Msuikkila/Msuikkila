@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Profile! 👋
-I'm Mika Suikkila
+My name is Mika Suikkila.
 
 ## 🔭 Projects Showcase:
 - WeatherApp: Dive into how I use APIs to deliver the elements! Check it out here: https://weatheronline.vercel.app/

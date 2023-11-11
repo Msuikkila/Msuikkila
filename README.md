@@ -1,4 +1,9 @@
-### Hi there 👋
+## Welcome to My GitHub Profile! 👋
+I'm Mika Suikkila
+
+## 🔭 Projects Showcase:
+WeatherApp: Dive into how I use APIs to deliver the elements! Check it out here: https://weatheronline.vercel.app/
+Superclicker: Ready, set, click! Try it here: https://superclicker.vercel.app/
 
 <!--
 **Msuikkila/Msuikkila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

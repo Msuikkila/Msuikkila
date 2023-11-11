@@ -3,6 +3,7 @@ I'm Mika Suikkila
 
 ## 🔭 Projects Showcase:
 WeatherApp: Dive into how I use APIs to deliver the elements! Check it out here: https://weatheronline.vercel.app/
+
 Superclicker: Ready, set, click! Try it here: https://superclicker.vercel.app/
 
 <!--
